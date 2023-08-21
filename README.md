@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ang-llllina
+- 👀 I’m interested in html, css, js
+- 🌱 I’m currently learning basic html
+- 💞️ I’m looking to collaborate on front-end development
+- 📫 You can text me in Telegram. Look in my profile
